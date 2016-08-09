@@ -1,4 +1,3 @@
-layout_spectrum: 0.27563688554801047
 typography_spectrum: 0.7506917815189809
 color:
   brandStrength: 0.9560487091075629
@@ -11,5 +10,7 @@ color:
     - '#A63180'
     - '#EE7385'
     - '#DD9DC0'
+layout_spectrum: 0.27563688554801047
 name: Blog test
 title: Balthazaar
+description: Let's have a ball!
