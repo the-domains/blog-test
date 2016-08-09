@@ -10,7 +10,12 @@ color:
     - '#A63180'
     - '#EE7385'
     - '#DD9DC0'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/eadc6968-6b8f-4112-b45d-49298ef9b574.jpg
 layout_spectrum: 0.27563688554801047
 name: Blog test
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ecf8aee-3f21-4af5-95be-4cadfd66ea38.jpg
 title: Balthazaar
 description: Let's have a ball!
