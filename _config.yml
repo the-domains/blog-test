@@ -14,8 +14,50 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/eadc6968-6b8f-4112-b45d-49298ef9b574.jpg
 layout_spectrum: 0.27563688554801047
-name: Blog test
+name: Analoge Liefde
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ecf8aee-3f21-4af5-95be-4cadfd66ea38.jpg
-title: Balthazaar
-description: Let's have a ball!
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c3dc56a-b5e9-453c-bf3e-b6c7608f76a1.png
+title: Analoge liefde
+description: Tijdloze portretten van jouw gezin
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c10e6ec8-fa21-4502-bb3d-533c99f97f6f.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c10e6ec8-fa21-4502-bb3d-533c99f97f6f.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: contact
+    url: 'tel:+32497209918'
+    label: Bel mij!
+  - type: external
+    url: 'http://www.google.be'
+    label: Boek mij!
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae306b76-94e5-4fce-b702-6fd33516d09f.png
+author:
+  name: Wietse Nauwelaerts
+  email: wietsen@gmail.com
+  url: 'https://thegrid.ai/analoge-liefde/'
+analytics:
+  twitter: ''
+url: 'https://thegrid.ai/analoge-liefde/'
+github: true
